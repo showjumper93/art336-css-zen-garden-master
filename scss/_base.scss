@@ -9,7 +9,7 @@ a {
 
 
 body {
-    background-color: #F3FFF2;
+    background-color: rgba(243, 255, 242, 0.5);
     @include body-font-regular;
     margin: 0 auto;
     max-width: 550px;
@@ -72,5 +72,5 @@ ul li:hover{
 .explanation,
 .preamble,
 .summary {
-    background-color: #F3FFF2;
+    background-color: rgba(243, 255, 242, 0.15);
 }
